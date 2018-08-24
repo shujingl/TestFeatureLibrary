@@ -1,3 +1,3 @@
-export class TestClass {
+export interface Test {
     name: string;
 }
